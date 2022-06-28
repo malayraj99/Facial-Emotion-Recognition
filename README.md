@@ -7,10 +7,10 @@ This is a PyTorch implementation of research paper, [Deep-Emotion](https://arxiv
 * An end-to-end deep learning framework, based on attentional convolutional network
 * Attention mechanism is added through spatial transformer network
 
-
+<!-- 
 <p align="center">
   <img src="imgs/net_arch.PNG" width="960" title="Deep-Emotion Architecture">
-</p>
+</p> -->
 
 
 ## Datasets

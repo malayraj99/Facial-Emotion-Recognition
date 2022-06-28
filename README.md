@@ -2,7 +2,6 @@
 
 This is a PyTorch implementation of research paper, [Deep-Emotion](https://arxiv.org/abs/1902.01019)
 
-[Note] This is not the official implementation of the paper
 
 ## Architecture
 * An end-to-end deep learning framework, based on attentional convolutional network
@@ -72,7 +71,7 @@ python visualize.py [-t] [-c] [--data [data_path]] [--model [model_path]]
 --test_cc               Calculate the test accuracy
 --cam                   Test the model in real-time with webcam connect via USB
 ```
-## Prediction Samples
+<!-- ## Prediction Samples
 <p align="center">
-  <img src="imgs/samples.png" width="720" title="Deep-Emotion Architecture">
-</p>
+<!--   <img src="imgs/samples.png" width="720" title="Deep-Emotion Architecture"> -->
+</p> -->
